@@ -10,7 +10,7 @@
 ``SHOW DATABASES;``
 
 - Удалить БД
-``DROP test;``
+``DROP DATABASE test;``
 
 #### Создать таблицу 
 
